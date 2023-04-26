@@ -1,0 +1,121 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size:45px;
+    color: #181717;
+    font-weight:100;
+    line-height: 100px;
+    margin-top: 15px;
+    /* line-height: 100px;
+    font-weight:100;
+    width:10px; */ 
+   
+}
+
+#b{
+    color: hsl(0, 4%, 59%);
+    font-size: 21px;
+    margin-top: -50px;
+    
+}
+#c{
+    text-align: center;
+    color:white;
+    background-color:#00acee;
+    line-height: 35px;
+    width: 300px;
+    border-radius: 9px;
+    border-color: white;
+    margin-top: -50px;
+}
+
+#l{
+    line-height: 10px;
+    font-weight: bolder;
+    width: -100px;
+    color: #ffffff;
+    
+}
+/* 
+#j{
+line-height: 10px;
+    font-weight: bolder;
+    width: -100px;
+    color: #ffffff;
+} */
+
+#Mobile-Number{
+width: 300px;
+line-height: 35px;
+margin-top: 0px;
+margin-top: -50px;
+border-color: hsl(0, 4%, 59%);;
+border-width: 1px;
+}
+
+#Full-Name{
+    width: 300px;
+    line-height: 35px;
+    margin-top: 0px;
+    margin-top: -50px;
+    border-color: hsl(0, 4%, 59%);;
+    border-width: 1px;
+}
+
+#Username{
+    width: 300px;
+    line-height: 35px;
+    margin-top: 0px;
+    margin-top: -50px;
+    border-color: hsl(0, 4%, 59%);;
+    border-width: 1px;
+
+}
+
+#Password{
+    width: 300px;
+    line-height: 35px;
+    margin-top: -50px;
+    border-color: hsl(0, 4%, 59%);;
+    border-width: 1px;
+
+}
+
+#p1{
+    margin-top: -19px;
+    color: hsl(0, 4%, 59%);
+    line-height: 19px;
+    font-weight: 100;
+}
+
+
+#p2{
+    margin-top: 0px;
+    color: hsl(0, 4%, 59%);
+    line-height: 19px;
+}
+
+#signup {
+    text-align: center;
+    color:white;
+    background-color:#00acee;
+    line-height: 24px;
+    width: 300px;
+    border-radius: 9px;
+    border-color: white;
+    margin-top: -5px; 
+     
+}
+
+#jsx{
+margin-top: 5px;
+margin-bottom: 5px;
+text-align: center;
+line-height: 23px;
+font-weight: bolder;
+color: #ffffff;
+
+}

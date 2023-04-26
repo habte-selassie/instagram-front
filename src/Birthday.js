@@ -1,12 +1,17 @@
+import './Birthday.css'
 const Birthday = () => {
 
     return ( 
         <div>
-          <h1>Add Your Birthday</h1>
-          <p>This won't be a part of your public profile.<br/>
-          <a href="www.birthday.com">Why do i need to provide my birthday?</a></p>
-          <form action="Submit" typeof="dropdown">
-           <select placeholder="MM">
+        <img src={require('./../src/assets/k.png')} alt='' id='birthday'></img>
+          <h1 id='a'>Add Your Birthday</h1>
+          <p>
+          <h5 id='b'>This won't be a part of your public profile.</h5>
+           <a href="www.birthday.com" id='c'>Why do i need to provide my birthday?</a>
+          </p>
+          
+           <form action="Submit" typeof="dropdown">
+           <select placeholder="MM" id='e'>
             <option name="September" value="Sep">September</option>
             <option name="October" value="Oct">October</option>
             <option name="November" value="Nov">November</option>
@@ -20,7 +25,7 @@ const Birthday = () => {
             <option name="July" value="Jul">July</option>
             <option name="August" value="August">August</option>
            </select>
-           <select placeholder="DD">
+           <select placeholder="DD" id='f'>
             <option name="1" value="Sep">1</option>
             <option name="2" value="Oct">2</option>
             <option name="3" value="Nov">3</option>
@@ -52,7 +57,7 @@ const Birthday = () => {
             <option name="29" value="Jan">29</option>
             <option name="30" value="Feb">30</option>
            </select>
-           <select placeholder="YY">
+           <select placeholder="YY" id='g'>
             <option name="2023" value="2023">2023</option>
             <option name="2022" value="Jul">2022</option>
             <option name="2021" value="Jun">2021</option>
@@ -87,26 +92,29 @@ const Birthday = () => {
             <option name="1992" value="Dec">1992</option>
             <option name="1991" value="Nov">1991</option>
             <option name="1990" value="Oct">1990</option>
+            <br/>
            </select>
-           <p>You need to enter the date you were born</p>
+           <br/>
+           <h5 id='h'>You need to enter the date you were born</h5>
+           <br/>
+           <h5 id='i'>Use your own birthday, even if this account is for a<br/>
+           business, a pet, or something else</h5>
 
-           <p>Use your own birthday, even if this account is for a<br/>
-           business, a pet, or something else</p>
-
-           <button type="submit">Next</button>
-           <h3><a href="www.google.com">Go Back</a></h3>
+           <button type="submit" id='j'> <h6 id='nxt'>Next</h6></button>
+           <h6><a href="www.google.com" id='k'>Go Back</a></h6>
            <div>
-            <h3>Have an account? <a href="www.google.com">Log in</a></h3>
+            <p id='l'>Have an account? <a href="www.google.com" id='n'>Log in</a></p>
            </div>
 
-           <h3>Get the app</h3>
+           <p id='o'>Get the app.</p>
             <div>
-              <ul>
-              <li><a href="www.Apple.com">
-              <img src="./public/a.png" alt="Download on the App Store"/>
-              </a></li>
-              <li><a href="www.Google.com"><img src="./public/b.png" alt="Get it on Google Play"/></a></li>
-              </ul>
+            <ul id='ul'>
+                    <li id='li'><a href="www.Apple.com">
+                   <img  src={require("./../src/assets/a.png")} alt="g" id='apple'/>
+                   </a></li>
+                  <li><a href="www.Google.com"><img  src={require("./../src/assets/b.png")} alt="a" id='google'/>
+                 </a></li>
+                </ul>
             </div>
             
    

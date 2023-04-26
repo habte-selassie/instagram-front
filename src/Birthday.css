@@ -1,0 +1,141 @@
+body{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#birthday{
+    margin-top: 10px;
+   
+} 
+
+#a{
+font-size:medium;
+font-weight: bolder;
+line-height: 10px;
+margin-top: 28px;
+color: #2e2c2c;
+}
+
+
+#b{
+    font-size:medium;
+    font-weight:lighter;
+    color: #0e0d0d;
+    position: relative; 
+    margin-top: 20px;
+    
+}
+
+#c{
+    font-size:medium;
+    font-weight:lighter;
+    color:#00acee;
+    margin-top: 10px;
+    
+    
+    
+}
+
+
+#e{
+    width: 100px;
+    margin-top: 3px;
+    height: 35px;
+    color: #aca1a1;
+    border-color: #b6aeae;
+    background-color: #ffffff;
+    margin-left: -5px;
+
+}
+
+#f{
+    width: 50px;
+    height: 35px;
+    color: #aca1a1;
+    border-color: #b6aeae;
+    background-color: #ffffff;
+    margin-left: 10px;
+    
+}
+
+#g{
+    width: 65px;
+    height: 35px;
+    color: #aca1a1;
+    border-color: #b6aeae;
+    background-color: #ffffff;
+    margin-left: 10px;
+}
+
+#h{
+    color: #837979;
+    font-weight: 100;
+    font-size:medium;
+    margin-top: 10px;
+    
+    
+}
+
+#i{
+    color: #837979;
+    font-weight: 100;
+    font-size:medium;
+}
+
+#j{
+width: 300px;
+line-height: 21px;
+border-radius: 9px;
+background-color: #00acee;
+color: #ffffff;
+margin-top: 15px;
+border-color: white;
+}
+
+#nxt{
+font-weight: 500;
+font-size: large;
+margin-top: 6px;
+margin-bottom: 6px;
+}
+
+#k{
+    font-weight: 500;
+    font-size: large;
+    padding-top: 10px;
+    color: #00acee;
+    
+}
+
+#l{
+color: #000;
+}
+
+#n{
+    color: #00acee;
+}
+
+#o{
+
+}
+
+#ul{
+    display: flex;
+    list-style: none;
+   }
+   
+   #li{
+   display: inline-block;
+   margin-right: 10px;
+   }
+
+#apple{
+    width: 150px;
+    height: 42px;
+    margin-left: 129px; 
+}
+
+#google{
+    width: 150px;
+    height: 42px;
+}

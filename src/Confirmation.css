@@ -1,0 +1,86 @@
+body{
+    text-align: center;
+}
+
+#a1{
+height: 100px;
+width: 200px;
+margin-top: 38px;
+}
+
+#a{
+text-align: center;
+font-weight: 600;
+line-height: normal;
+margin-top: 20px;
+}
+
+#b{
+color: rgb(31, 29, 29);
+}
+
+#c{
+    color:#00acee;
+    font-weight: bolder;
+    padding-top: 100px;
+
+}
+
+#Confirmation{
+width: 280px;
+height: 35px;
+line-height: 55px;
+border-radius: 9px;
+border-color: rgb(114, 114, 114);
+border-width: 1px;
+
+}
+
+#btn{
+    width: 290px;
+    height: 33px;
+    line-height: 50px;
+    border-radius: 9px;
+    border-color: rgb(255, 255, 255);
+    background-color: #00acee;
+    margin-top: 15px;
+    margin-left: 0px;
+}
+#btntxt{
+    margin-top: -10px; 
+    font-weight: bolder;
+    font-size:15px;
+    color: #ffffff;
+}
+
+#l{
+    color:#00acee;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+#login{
+    color:#00acee; 
+}
+
+#ul{
+    display: flex;
+    list-style: none;
+   }
+   
+   #li{
+   display: inline-block;
+   margin-right: 10px;
+   }
+
+
+#apple{
+    width: 150px;
+    height: 42px;
+    margin-left: 129px; 
+}
+
+#google{
+    width: 150px;
+    height: 42px;
+}

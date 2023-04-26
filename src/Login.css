@@ -1,0 +1,118 @@
+/* @font-face {
+    font-family: 'Pacifico';
+    src: url('path/to/font/Pacifico-Regular.ttf') format('truetype');
+  } */
+  
+body{
+   text-align: center;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    margin-right: 10px;
+    position: relative;
+    margin-left: -50px;
+    font-size:58px;
+    text-align:center;
+    color: #181717;
+    line-height: 100px;
+    font-weight:100;
+    width:10px;
+    /* font-stretch:ultra-expanded */
+}
+
+#login-img{
+margin-left: 140px;   
+width: 300px;
+height: 600px;
+}
+
+#login-imh{
+    margin-top: 28px;
+    margin-left: -355px;   
+    width: 600px;
+    height: 608px;
+    }
+
+
+#input {
+line-height: 30px;
+width: 380px;
+margin-left: -90px;
+}
+
+#password {
+line-height: 30px;
+width: 380px;
+margin-left: -90px;
+}
+
+
+#login{
+    width: 380px;
+    line-height: 30px;
+    color:rgb(255, 255, 255);
+    background-color:#00acee;
+    border-radius: 12px; 
+    border-color: white;
+    margin-left: -90px;
+}
+
+#or{
+    text-shadow: 50px;
+    color: rgba(14, 58, 97, 0.61);
+    text-align: center;
+    margin-left: -110px;
+
+}
+
+#fb{
+text-align:right;
+color: #4267B2;
+margin-left: -120px;
+}
+
+#forgot{
+text-align: center;
+color: #4267B2;
+margin-left: -115px;
+margin-bottom: 10px;
+}
+
+#not-account{
+font-family: Verdana, Geneva, Tahoma, sans-serif;  
+font-weight: 100;
+margin-left: -105px;
+margin-bottom: 20px;
+}
+
+#signup{
+font-family: Verdana, Geneva, Tahoma, sans-serif;  
+font-weight:100;
+margin-left: 0px;
+}
+
+#app{
+    margin-left: -135px; 
+}
+
+
+#ul{
+    display: flex;
+    list-style: none;
+   }
+   
+   #li{
+   display: inline-block;
+   margin-right: 10px;
+   }
+
+#apple{
+    width: 150px;
+    height: 50px;
+    margin-left: -115px; 
+}
+
+#google{
+    width: 150px;
+    height: 50px;
+}
