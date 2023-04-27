@@ -1,0 +1,14 @@
+body{
+
+    align-items: center;
+    background-color: rgb(247, 247, 247);
+    margin-top: 20px;
+}
+#post-box{
+   
+    width: 500px;
+    height: 550px;
+    border: 1px solid grey;
+    background-color: rgb(188, 188, 199);
+    margin: auto;
+}

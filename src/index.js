@@ -5,13 +5,14 @@ import ReactDOM from 'react-dom/client';
 //import Birthday from './Birthday';
 //import Signup from './Signup';
 import Confirmation from './Confirmation';
+import PostComponent from './Home/Post';
 //import Enter from './Accounts';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Confirmation />
+    <PostComponent />
   </React.StrictMode>
 );
 
