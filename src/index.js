@@ -4,8 +4,8 @@ import ReactDOM from 'react-dom/client';
 //import Login from './Login';
 //import Birthday from './Birthday';
 //import Signup from './Signup';
-import Confirmation from './Confirmation';
-import PostComponent from './Home/Post';
+///import Confirmation from './Confirmation';
+///import PostComponent from './Home/Post';
 import WhenPosted from './Home/Posted';
 //import Enter from './Accounts';
 
