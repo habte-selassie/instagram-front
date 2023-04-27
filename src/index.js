@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+
 //import Account from './Account';
 //import Login from './Login';
 //import Birthday from './Birthday';
@@ -7,6 +8,7 @@ import ReactDOM from 'react-dom/client';
 ///import Confirmation from './Confirmation';
 ///import PostComponent from './Home/Post';
 import WhenPosted from './Home/Posted';
+import '@fortawesome/fontawesome-svg-core/styles.css';
 //import Enter from './Accounts';
 
 
