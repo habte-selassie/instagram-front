@@ -6,13 +6,14 @@ import ReactDOM from 'react-dom/client';
 //import Signup from './Signup';
 import Confirmation from './Confirmation';
 import PostComponent from './Home/Post';
+import WhenPosted from './Home/Posted';
 //import Enter from './Accounts';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <PostComponent />
+    <WhenPosted />
   </React.StrictMode>
 );
 
